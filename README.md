@@ -19,5 +19,15 @@ npm install
 node server.js
 ```
 
+Compile .scss files to css (with watch option) :
+```
+npm run scss
+```
+
+Automatically restarting the node application when file changes :
+```
+npm run start
+```
+
 ## Author
 * **Johan SALTUTTI**
