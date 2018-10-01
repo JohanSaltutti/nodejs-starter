@@ -29,5 +29,14 @@ Automatically restarting the node application when file changes :
 npm run start
 ```
 
+## Built With
+
+* [NodeJS](https://nodejs.org/en/)
+* [ExpressJS](http://expressjs.com/g/) - Minimalist web framework for NodeJS
+* [Twig](https://github.com/twigjs/twig.js/wiki) - Modern template engine
+* [Socket.IO](https://github.com/socketio/socket.io) - Socket.IO is a library that enables real-time
+* [Dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env 
+
+
 ## Author
 * **Johan SALTUTTI**
